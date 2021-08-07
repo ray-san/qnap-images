@@ -164,6 +164,18 @@
         "type": "lxc"
     },
     {
+        "description": "Fedora Linux",
+        "repository": "qnap",
+        "inspect": "{}",
+        "arch": "armhf",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/master/images/debian_icon.png",
+        "displayName": "Fedora",
+        "name": "fedora-32-armhf",
+        "version": "32",
+        "location": "http://download.qnap.com/QPKG/container/debian-jessie_8_armhf.tar.gz",
+        "type": "lxc"
+    },
+    {
         "description": "Remote desktop Sharing in Ubuntu 14.04.",
         "repository": "dockerhub",
         "arch": "amd64",
