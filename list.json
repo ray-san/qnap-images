@@ -164,7 +164,7 @@
         "type": "lxc"
     },
     {
-        "description": "Fedora Linux",
+        "description": "Fedora Linux 23",
         "repository": "qnap",
         "inspect": "{}",
         "arch": "armhf",
